@@ -5,4 +5,4 @@
 - ⚡ Nas horas vagas brinco de designer gráfica
   
 
-![Giulia's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuliapacca&show_icons=true&theme=highcontrast)
+![Giulia's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuliapacca&show_icons=true&theme=dracula)
